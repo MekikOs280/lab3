@@ -7,7 +7,6 @@ public class FactorialCalculator {
         }
         return result;
     }
-
     // Завдання 1: Обчислення факторіалу за допомогою рекурсії
     public int recursionExecute(int N) {
         if (N == 0 || N == 1) {
